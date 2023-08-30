@@ -1,5 +1,5 @@
-# LAST FRUIT BENDER
-![Last Fruit Bender](https://snipboard.io/hETf5g.jpg)
+# THE LAST FRUIT BENDER
+![The Last Fruit Bender](https://snipboard.io/hETf5g.jpg)
 
 ## PLAY
 You can play the game from here =>
