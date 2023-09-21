@@ -2,6 +2,8 @@
 ![The Last Fruit Bender](https://snipboard.io/hETf5g.jpg)
 
 # Introduction:
+🍉 Get ready to slice your way to fruity victory in The Last Fruit Bender🔪
+
 The Last Fruit Bender ​is a fast-paced, action-packed game that will test your ninja-like reflexes and precision. Your mission is simple: slice as many juicy fruits as you can while avoiding the dreaded bombs. It's a deliciously addictive experience that's perfect for players of all ages.
 
 # Key Features:
@@ -22,7 +24,7 @@ Challenge yourself to beat your highest score.
 
 The Last Fruit Bender is the ultimate fruit slicing experience that's perfect for casual gamers and fruit ninja enthusiasts alike. Can you master the art of fruit slicing and achieve the highest score? There's only one way to find out!
 
-🍍🔪 Are you ready to become The Last Fruit Bender? Start slicing  now! 🔪🍉 
+🔪 Are you ready to become The Last Fruit Bender? Start slicing  now! 🔪🍉 
 ​
 # PLAY
 You can play the game from here =>
@@ -36,3 +38,7 @@ You can play the game from here =>
 ![Screenshots](https://snipboard.io/qERwH9.jpg)
 
 ![Screenshots](https://snipboard.io/7GVtxO.jpg)
+
+# Contact Information:
+
+For support or inquiries, reach out to me at aleyna.alemdar@tedu.edu.tr or find me on LinkedIn @aleynaalemdar.
